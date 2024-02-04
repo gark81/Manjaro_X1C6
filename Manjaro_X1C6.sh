@@ -162,7 +162,7 @@ errors_check(){
 # FIN DE LA INSTALACION #
 # ***********************
 end_message(){
-      echo -e "${BIGreen} ==> RECUERDA configurar FIREFOX --> about:config --> browser.cache.disk.parent_directory --> indica la ruta /tmp/firefox ${Color_Off}"
+      echo -e "${BIGreen} ==> Lenovo Thinkpad X1 Carbon 6th Gen  - CONFIGURADO  ${Color_Off}"
       echo -e " "
       echo -e "${BIGreen} <<<<<<<<<< FIN >>>>>>>>>> ${Color_Off}"
       }
